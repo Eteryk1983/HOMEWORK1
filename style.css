@@ -87,10 +87,12 @@ padding-right: 120px;
 }
 
 .item{
-    gradient(180deg, rgba(39, 1, 15, 0) 0%, #001944 100%), url(0231.jpg);
+   
 border-radius: 16px;
 height: 300px;
 width: 379px;
+z-index: 1;
 }
+
 
    
